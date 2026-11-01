@@ -1,4 +1,6 @@
-# 第1回 演習・宿題：開発環境を整え、LLMに質問する
+git add -A
+git commit -m "第1回 宿題"
+git push -u origin lec01# 第1回 演習・宿題：開発環境を整え、LLMに質問する
 
 ## この回のゴール
 
